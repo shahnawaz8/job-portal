@@ -1,0 +1,86 @@
+body{
+	background: #f9f9f9;
+}
+.m0{
+	margin: 0px;
+}
+.mt0{
+	margin-top: 0px;
+}
+.mb0{
+	margin-bottom: 0px;
+}
+.mt10{
+	margin-top: 10px;
+}
+.mrb40{
+	margin-bottom: 40px
+}
+
+.font24{
+	font-size: 24px;
+}
+
+.minSide{
+	min-height: 400px
+}
+
+header{
+	background: #080808 url("headerBg.jpg");
+	color: #ffffff;
+	padding: 22px 0px;
+}
+header .logo{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 26px;
+}
+nav.sandeepdil{
+	border-radius: 0px;
+	border: 0px;
+}
+.well-white{
+	background: #ffffff;
+}
+.well-statics{
+	padding-top: 0px;
+}
+.well-statics h1{
+	margin-top: 0px;
+	background: #337AB7;
+	color: #FFF;
+	font-size: 16px;
+	margin-left: -9px;
+	padding: 5px;
+	margin-right: -9px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+.headingStrip{
+	background: #337AB7;
+	color: #FFF;
+	font-size: 16px;
+	padding: 5px;
+}
+
+#loginForm img{
+	width: 165px;
+}
+
+.table tr:hover span.jobTitle{
+	font-weight: bold;
+	font-size: 19px;
+}
+.table tr span.jobDisc{
+	display: none;
+}
+.table tr:hover span.jobDisc{
+	display: block;
+}
+
+footer{
+	background: #080808;
+	color: #ffffff;
+	padding: 40px 0px 10px 0px;
+	margin-top: 40px;
+}
